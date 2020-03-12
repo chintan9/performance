@@ -9,6 +9,6 @@
     "help": "mdx-deck"
   },
   "devDependencies": {
-    "mdx-deck": "4.0.0"
+    "mdx-deck": "4.1.1"
   }
 }
